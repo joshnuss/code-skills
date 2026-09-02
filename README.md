@@ -2,6 +2,15 @@
 
 A set of skills for Claude Code to fight the slop.
 
+## Installation
+
+Clone the repo into `~/.claude/skills/`
+
+```
+mkdir -p ~/.claude/skills
+git clone https://github.com/joshnuss/code-skills.git ~/.claude/skills/code-skills
+```
+
 ## Sources
 
 - [Code Complete 2](https://a.co/d/00J37bJU)
