@@ -18,29 +18,12 @@ git clone https://github.com/joshnuss/code-skills.git ~/.claude/skills/code-skil
 
 ## Skills
 
-### Minimal Comments
-
-Keeps comments to a minimum. Avoids comments that would be better described with code.
-
-### Minimal Complexity
-
-Run Cyclomatic complexity checks to ensure functions don't get super nested.
-
-### Small Routines
-
-Avoids long and windy functions. Keeps functions short and sweet.
-
-### Creational Patterns
-
-Reviews object construction code for a missing or overused Singleton, Factory Method, or Builder.
-
-### Structural Patterns
-
-Reviews wrapper and subsystem-facing code for a missing or overused Adapter, Decorator, or Facade.
-
-### Behavioral Patterns
-
-Reviews dispatch, event, and state-transition code for a missing or overused Strategy, Observer, Command, Template Method, or State.
+- 💬 **Minimal Comments**: Keeps comments to a minimum. Avoids comments that would be better described with code.
+- 🌀 **Minimal Complexity**: Run Cyclomatic complexity checks to ensure functions don't get super nested.
+- ✂️ **Small Routines**: Avoids long and windy functions. Keeps functions short and sweet.
+- 🏗️ **Creational Patterns**: Reviews object construction code for a missing or overused Singleton, Factory Method, or Builder.
+- 🧱 **Structural Patterns**: Reviews wrapper and subsystem-facing code for a missing or overused Adapter, Decorator, or Facade.
+- 🎭 **Behavioral Patterns**: Reviews dispatch, event, and state-transition code for a missing or overused Strategy, Observer, Command, Template Method, or State.
 
 ## License
 
