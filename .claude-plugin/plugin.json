@@ -11,6 +11,9 @@
     "./",
     "./minimal-comments",
     "./minimal-complexity",
-    "./small-routines"
+    "./small-routines",
+    "./creational-patterns",
+    "./structural-patterns",
+    "./behavioral-patterns"
   ]
 }
