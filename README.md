@@ -25,6 +25,10 @@ Keeps comments to a minimum. Avoids comments that would be better described with
 
 Run Cyclomatic complexity checks to ensure functions don't get super nested.
 
+## Small Routines
+
+Avoids long and windy functions. Keeps functions short and sweet.
+
 ## License
 
 MIT
