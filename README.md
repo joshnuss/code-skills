@@ -13,7 +13,8 @@ git clone https://github.com/joshnuss/code-skills.git ~/.claude/skills/code-skil
 
 ## Sources
 
-- [Code Complete 2](https://a.co/d/00J37bJU)
+- [Code Complete 2: Developer Best Practices](https://a.co/d/00J37bJU)
+- [Design Patterns: Elements of Reusable Object-Oriented Software](https://a.co/d/05UJihQv)
 
 ## Skills
 
