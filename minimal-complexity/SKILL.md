@@ -1,6 +1,6 @@
 ---
 name: minimal-complexity
-description: Write or review code for cyclomatic complexity using Steve McConnell's Code Complete 2 guidance (ch. 19, 24) — count decision points, flag routines above the risk threshold, and reduce complexity by restructuring (extract routines, guard clauses, table-driven logic, polymorphism) rather than by adding explanation. Use when writing new logic with several branches, when the user asks to simplify/refactor a function, review complexity, split up a long routine, or asks whether something is too complex/nested.
+description: Write/review code for cyclomatic complexity per Code Complete 2 (ch. 19) — count decision points, flag routines over ~10, reduce via extraction/guard clauses/table-driven logic, not comments. Use when writing branchy logic or asked to simplify/refactor/split a function or review nesting/complexity.
 ---
 
 # Minimal complexity (Code Complete 2)

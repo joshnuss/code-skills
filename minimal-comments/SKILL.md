@@ -1,6 +1,6 @@
 ---
 name: minimal-comments
-description: Write or review code comments using Steve McConnell's Code Complete 2 guidance (ch. 32) — comment intent and "why", not mechanics or "what"; prefer self-documenting code over explanation; cut comments that restate the code, decorate it, or apologize for it. Use when writing new code, when the user asks to add/clean up/reduce comments, review comment quality, or asks whether something needs a comment.
+description: Write/review code comments per Code Complete 2 (ch. 32) — comment why, not what; cut restated, decorative, or apologetic comments; prefer self-documenting code. Use when writing code or when asked to add/clean up/review comments.
 ---
 
 # Minimal comments (Code Complete 2)
