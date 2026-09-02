@@ -1,4 +1,6 @@
-# Skills that fight the slop
+# Code skills
+
+A set of skills for Claude Code to fight the slop.
 
 ## Minimal Comments
 
