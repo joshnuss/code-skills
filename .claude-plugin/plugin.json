@@ -1,0 +1,14 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "code-skills",
+  "version": "0.1.0",
+  "description": "TODO: describe what this plugin provides",
+  "author": {
+    "name": "Josh Nussbaum",
+    "email": "joshnuss@gmail.com"
+  },
+  "skills": [
+    "./",
+    "./minimal-comments"
+  ]
+}
